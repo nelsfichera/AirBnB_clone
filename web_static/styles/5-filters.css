@@ -2,7 +2,7 @@
 	background-color: white;
 	height: 70px;
 	width: 100%;
-	border: 1px solid #DDDDDD;
+	border: solid 1px #DDDDDD;
 	border-radius: 4px;
 	align-items: center;
 }
@@ -12,6 +12,7 @@
 	float: left;
 	padding-left: 40px;
 	border-right: solid #DDDDDD 1px;
+}
 .amenities {
 	height: 100%;
 	width: 25%;

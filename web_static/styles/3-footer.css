@@ -5,6 +5,7 @@ footer {
 	position: fixed;
 	bottom: 0;
 	left: 0;
+	border-top: solid 1px #DDDDDD;
 }
 .text-wrapper {
 	position: relative;
